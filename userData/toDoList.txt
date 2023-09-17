@@ -1,0 +1,4 @@
+Date: 21/12/2021 Time: 17:57:08
+[17:57] : grocery
+[17:57] : close
+[17:58] : create list
